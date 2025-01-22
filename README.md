@@ -1,7 +1,7 @@
 👋 Hi, I’m @mjeshani2  
 - 👀 I’m interested in IT, data analysis, and UI/UX design.  
 - 🌱 I’m currently learning BTEC IT (Year 2) with a focus on:  
-- **Programming:** Enhancing my skills in Python, JavaScript, and web technologies.  
+  - **Programming:** Enhancing my skills in Python, JavaScript, and web technologies.  
   - **Enterprise in IT (EIT):** Understanding IT’s role in modern business and exploring innovative enterprise solutions.  
   - **Web Development:** Building responsive and user-friendly websites using HTML, CSS, and JavaScript.  
   - **Information Technology Technical Support (ITTS):** Learning advanced troubleshooting and support techniques for IT systems.  
