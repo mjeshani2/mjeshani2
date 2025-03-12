@@ -1,22 +1,4 @@
-👋 Hi, I’m @mjeshani2  
-- 👀 I’m interested in IT, data analysis, and UI/UX design.  
-- 🌱 I’m currently learning BTEC IT (Year 2) with a focus on:  
-  - **Programming:** Enhancing my skills in Python, JavaScript, and web technologies.  
-  - **Enterprise in IT (EIT):** Understanding IT’s role in modern business and exploring innovative enterprise solutions.  
-  - **Web Development:** Building responsive and user-friendly websites using HTML, CSS, and JavaScript.  
-  - **Information Technology Technical Support (ITTS):** Learning advanced troubleshooting and support techniques for IT systems.  
-  - **IoT (Internet of Things):** Exploring smart devices, connected systems, and their applications in various industries.  
-  - **Mobile App Development:** Designing and developing applications that are functional and user-centric.  
-  - **Data Structures and Algorithms (DSA):** Gaining problem-solving skills through projects on sorting, searching, and data organization.  
-  - **Cybersecurity:** Learning about ethical hacking, encryption, and safeguarding IT infrastructure.  
-   
-- 💞️ I’m looking to collaborate on IT-related projects, data analysis initiatives, and UI/UX design for innovative applications.  
-- 📫 How to reach me: jeshanimayank@gmail.com  
-- 😄 Pronouns: He/Him  
-
-### 🌍 Let’s Connect!  
-Feel free to reach out for collaborations, questions, or just a friendly chat about tech and design.  
-# 💫 About Me:
+ # 💫 About Me:
 👋 Hi, I’m @mjeshani2  <br>- 👀 I’m interested in IT, data analysis, and UI/UX design.  <br>- 🌱 I’m currently learning BTEC IT (Year 2) with a focus on:  <br>  - **Programming:** Enhancing my skills in Python, JavaScript, and web technologies.  <br>  - **Enterprise in IT (EIT):** Understanding IT’s role in modern business and exploring innovative enterprise solutions.  <br>  - **Web Development:** Building responsive and user-friendly websites using HTML, CSS, and JavaScript.  <br>  - **Information Technology Technical Support (ITTS):** Learning advanced troubleshooting and support techniques for IT systems.  <br>  - **IoT (Internet of Things):** Exploring smart devices, connected systems, and their applications in various industries.  <br>  - **Mobile App Development:** Designing and developing applications that are functional and user-centric.  <br>  - **Data Structures and Algorithms (DSA):** Gaining problem-solving skills through projects on sorting, searching, and data organization.  <br>  - **Cybersecurity:** Learning about ethical hacking, encryption, and safeguarding IT infrastructure.  <br>   <br>- 💞️ I’m looking to collaborate on IT-related projects, data analysis initiatives, and UI/UX design for innovative applications.  <br>- 📫 How to reach me: jeshanimayank@gmail.com  <br>- 😄 Pronouns: He/Him  <br><br>### 💡 Skills  <br>- **Programming:** Python, JavaScript, HTML/CSS  <br>- **Cybersecurity:** Basic ethical hacking, encryption techniques, and threat analysis  <br>- **Web Development:** Responsive design and modern web technologies  <br>- **IoT & Mobile Development:** Prototyping and developing connected solutions  <br>- **IT Expertise:** Troubleshooting systems, ITTS, database modeling, and project management  <br>- **Design:** UI/UX with Figma, Photoshop, Illustrator  <br>- **Tools:** VS Code, Draw.io, Microsoft Office  
 
 
