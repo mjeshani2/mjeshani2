@@ -1,5 +1,24 @@
  # 💫 About Me:
-👋 Hi, I’m @mjeshani2  <br>- 👀 I’m interested in IT, data analysis, and UI/UX design.  <br>- 🌱 I’m currently learning BTEC IT (Year 2) with a focus on:  <br>  - **Programming:** Enhancing my skills in Python, JavaScript, and web technologies.  <br>  - **Enterprise in IT (EIT):** Understanding IT’s role in modern business and exploring innovative enterprise solutions.  <br>  - **Web Development:** Building responsive and user-friendly websites using HTML, CSS, and JavaScript.  <br>  - **Information Technology Technical Support (ITTS):** Learning advanced troubleshooting and support techniques for IT systems.  <br>  - **IoT (Internet of Things):** Exploring smart devices, connected systems, and their applications in various industries.  <br>  - **Mobile App Development:** Designing and developing applications that are functional and user-centric.  <br>  - **Data Structures and Algorithms (DSA):** Gaining problem-solving skills through projects on sorting, searching, and data organization.  <br>  - **Cybersecurity:** Learning about ethical hacking, encryption, and safeguarding IT infrastructure.  <br>   <br>- 💞️ I’m looking to collaborate on IT-related projects, data analysis initiatives, and UI/UX design for innovative applications.  <br>- 📫 How to reach me: jeshanimayank@gmail.com  <br>- 😄 Pronouns: He/Him  <br><br>### 💡 Skills  <br>- **Programming:** Python, JavaScript, HTML/CSS  <br>- **Cybersecurity:** Basic ethical hacking, encryption techniques, and threat analysis  <br>- **Web Development:** Responsive design and modern web technologies  <br>- **IoT & Mobile Development:** Prototyping and developing connected solutions  <br>- **IT Expertise:** Troubleshooting systems, ITTS, database modeling, and project management  <br>- **Design:** UI/UX with Figma, Photoshop, Illustrator  <br>- **Tools:** VS Code, Draw.io, Microsoft Office  
+👋 Hi, I’m @mjeshani2
+
+👀 I’m passionate about IT, data analysis, and UI/UX design.
+
+🌱 I’m currently pursuing a Diploma in Computer Engineering (Year 1) at Parul University, focusing on:
+
+Programming & Problem Solving: Strengthening my skills in C, Python, and JavaScript.
+Web Development: Building modern, responsive websites with HTML, CSS, JavaScript, and Bootstrap.
+Computer Organization & Architecture: Understanding hardware, microprocessors, and system design.
+Operating Systems: Learning about Linux, Windows, process management, and memory allocation.
+Database Management Systems (DBMS): Working with SQL, data modeling, and database design principles.
+Networking & Security: Gaining knowledge of computer networks, cybersecurity fundamentals, and encryption.
+IoT & Embedded Systems: Exploring microcontrollers, sensors, and real-world IoT applications.
+Software Engineering & Project Management: Understanding SDLC, agile methodologies, and software testing.
+Mathematics for Computing: Strengthening problem-solving through discrete math, probability, and statistics.
+💞️ I’m looking to collaborate on IT-related projects, data analysis initiatives, and UI/UX design for innovative applications.
+
+📫 How to reach me: jeshanimayank@gmail.com
+
+😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
