@@ -1,7 +1,7 @@
  # 💫 About Me:
 👋 Hi, I’m @mjeshani2
 
-👀 I’m passionate about IT, data analysis, and UI/UX design.
+👀 I’m passionate about IT, data analysis, UI/UX design, Software Engineering and more...
 
 🌱 I’m currently pursuing a Diploma in Computer Engineering (Year 1) at Parul University, focusing on:
 
