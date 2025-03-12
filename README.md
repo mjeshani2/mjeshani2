@@ -14,15 +14,6 @@
 - 📫 How to reach me: jeshanimayank@gmail.com  
 - 😄 Pronouns: He/Him  
 
-### 💡 Skills  
-- **Programming:** Python, JavaScript, HTML/CSS  
-- **Cybersecurity:** Basic ethical hacking, encryption techniques, and threat analysis  
-- **Web Development:** Responsive design and modern web technologies  
-- **IoT & Mobile Development:** Prototyping and developing connected solutions  
-- **IT Expertise:** Troubleshooting systems, ITTS, database modeling, and project management  
-- **Design:** UI/UX with Figma, Photoshop, Illustrator  
-- **Tools:** VS Code, Draw.io, Microsoft Office  
-
 ### 🌍 Let’s Connect!  
 Feel free to reach out for collaborations, questions, or just a friendly chat about tech and design.  
 # 💫 About Me:
